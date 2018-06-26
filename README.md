@@ -66,7 +66,7 @@ PARTE 02 : Desarrollar la siguiente aplicación
 **Consideraciones preliminares:**
 
 - Se debe usar el framework slim (http://www.slimframework.com/) para el desarrollo de la aplicación
-- El archivo JSON para trabajar con el aplicativo está en [este enlace](https://github.com/JCarlosR/php-developer-test/blob/master/employees-app/public/employees.json)
+- El archivo JSON para trabajar con el aplicativo está en [este enlace](https://drive.google.com/file/d/0B8NYMqSaJBAmdmpZYVBIdzlHVEk/view)
 
 **Enunciado**
 
